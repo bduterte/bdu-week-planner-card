@@ -1,7 +1,7 @@
 {
-  "name": "BDU - Week planner card",
+  "name": "Week planner card",
   "content_in_root": false,
   "render_readme": true,
-  "filename": "bdu-week-planner-card.js",
+  "filename": "week-planner-card.js",
   "homeassistant": "2023.9"
 }
