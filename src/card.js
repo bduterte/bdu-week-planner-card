@@ -564,6 +564,8 @@ export class WeekPlannerCard extends LitElement {
             fullDay: fullDay,
             color: calendar.color ?? 'inherit',
             calendar: calendar.entity,
+            /** BDU */
+            /** BDU */
             calendarSorting: calendarSorting,
             class: this._getEventClass(startDate, endDate, fullDay)
         });

@@ -8,8 +8,8 @@ customElements.define(
 
 window.customCards = window.customCards || [];
 window.customCards.push({
-    type: 'week-planner-card',
-    name: 'Week Planner Card',
+    type: 'home-week-planner-card',
+    name: 'home-Week Planner Card',
     description: 'Card to display events for a number of days from one or several calendars.'
 });
 
