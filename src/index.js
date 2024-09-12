@@ -2,14 +2,14 @@ import { WeekPlannerCard } from './card';
 import { version } from '../package.json';
 
 customElements.define(
-    'week-planner-card',
+    'home-week-planner-card',
     WeekPlannerCard
 );
 
 window.customCards = window.customCards || [];
 window.customCards.push({
     type: 'home-week-planner-card',
-    name: 'home-Week Planner Card',
+    name: 'Home Week Planner Card',
     description: 'Card to display events for a number of days from one or several calendars.'
 });
 
